@@ -74,16 +74,16 @@ Add them like this in README:
 
     Employee-Management-System/
 │
-├── main.py                 # Main GUI (Login + EMS)
-├── database.py             # MySQL database operations
-├── employee_data.sql       # MySQL DB structure/data export
-├── image.jpg               # Login background image
-├── image5.jpg              # EMS banner/header
-├── README.md               # Project documentation for GitHub
-├── LICENSE                 # MIT License (or whichever you choose)
-├── requirements.txt        # Python dependencies (optional)
+├── main.py                 
+├── database.py            
+├── employee_data.sql       
+├── image.jpg               
+├── image5.jpg              
+├── README.md               
+├── LICENSE                 
+├── requirements.txt        
 │
-└── screenshots/            # OPTIONAL (only if you have images for readme)
+└── screenshots/            
       ├── login_page.png
       ├── ems_dashboard.png
 ------------------------------------------------------------------------
