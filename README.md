@@ -11,7 +11,7 @@ A modern GUI-based **Employee Management System (EMS)** built using:
 -   Python
 -   CustomTkinter (modern UI wrapper for Tkinter)
 -   MySQL database (via `pymysql`)
--   Pillow (image support)
+-   Pilloww (image support)
 
 The application supports login authentication and provides CRUD (Create,
 Read, Update, Delete) operations for employee management.
